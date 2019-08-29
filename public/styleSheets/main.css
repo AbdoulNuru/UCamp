@@ -1,0 +1,66 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#delete-comment-form {
+    display: inline;
+}
+ nav{
+     font-family: 'Cinzel', serif;
+ }
+
+ #index-header {
+     font-family: 'Cinzel', serif;
+ }
+
+ #index-sub-header {
+     font-family: 'Source Serif Pro', serif;
+     font-size: 2em;
+ }
+
+ #content{
+	text-align: center;
+	padding-top: 25%; 
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+#separator {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);
+	background-size: cover;
+	background-position: center;
+    font-family: 'Lato', sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+.my-headers {
+    color: white;
+}
+
+#main-header {
+	font-weight: 700;
+	font-size: 5em;
+}
