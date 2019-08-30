@@ -3,7 +3,7 @@ var express  = require("express"),
     passport = require("passport"),
     User     = require("../models/user");
 
-    //root route
+//root route
 router.get("/", function (req, res) {
     res.render("landing");
 })
